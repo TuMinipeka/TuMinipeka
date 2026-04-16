@@ -84,7 +84,3 @@ const daniel = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </p>
-
-<p align="center">
-  <i><b>Daniel Mayorga</b></i>
-</p>
