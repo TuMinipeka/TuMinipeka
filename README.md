@@ -70,7 +70,7 @@ const daniel = {
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin/">
+  <a href="https://www.linkedin.com/in/daniel-mayorga-5bb0463a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1445751258022416415">
