@@ -61,7 +61,7 @@ const daniel = {
 <!-- Iconos compactos vía skillicons.dev (alternativa visual) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,java,html,css,nodejs,supabase,git,github,vscode,linux&perline=11" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,nodejs,supabase,git,github,vscode&perline=9" />
   </a>
 </p>
 
