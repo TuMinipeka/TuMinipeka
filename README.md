@@ -73,7 +73,7 @@ const daniel = {
   <a href="https://www.linkedin.com/in/tu-usuario-linkedin/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/tu-id-discord">
+  <a href="https://discord.com/users/1445751258022416415">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
