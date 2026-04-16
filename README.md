@@ -86,5 +86,5 @@ const daniel = {
 </p>
 
 <p align="center">
-  <i>⌨️ con ❤️ por <b>Daniel Mayorga</b></i>
+  <i><b>Daniel Mayorga</b></i>
 </p>
