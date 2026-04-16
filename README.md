@@ -40,7 +40,7 @@ const daniel = {
 - 🔭 Actualmente trabajando en proyectos frontend y colaborativos
 - 🌱 Reforzando **JavaScript** (arrays, `this`, arrow functions) y **backend con Supabase**
 - 💬 Pregúntame sobre **JS, HTML/CSS y desarrollo web**
-- ⚡ Dato curioso: completé un reto personal de **12km** en 24 horas
+- ⚡ Dato curioso: construi un antebrazo robotico en menos de 2 meses
 
 ---
 
