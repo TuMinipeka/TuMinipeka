@@ -14,4 +14,4 @@ Skilled in JavaScript, Node.js and React Native, with a strong foundation in pro
 Currently building real-world projects to solve meaningful problems and continuously improve as a software engineer.
 
 ## 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/daniel-mayorga-5bb0463a0/) · [Discord](https://discord.com/users/1445751258022416415)
+[LinkedIn](https://www.linkedin.com/in/daniel-santiago-mayorga-tellez-5bb0463a0/) · [Discord](https://discord.com/users/1445751258022416415)
