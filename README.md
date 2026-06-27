@@ -5,7 +5,7 @@ Junior Full Stack Developer
 Building modern, scalable and visually engaging web applications.
 
 ## 🛠 Tech Stack
-JavaScript · HTML · CSS · Node.js · Supabase · Git · React Native · Expo
+JavaScript · HTML · CSS · Node.js · MySQL · Git · React Native · Expo
 
 ## 📌 About Me
 Junior Full Stack Developer focused on creating modern and scalable digital products.  
