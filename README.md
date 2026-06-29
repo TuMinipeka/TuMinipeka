@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Daniel Mayorga! 👋</h1>
-  <h3>Junior Full Stack Developer</h3>
+  <h3>Junior Backend Developer</h3>
   <p><em>Building modern, scalable, and visually engaging web applications.</em></p>
 </div>
 
@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 
-> **Junior Full Stack Developer** focused on creating modern and scalable digital products.
+> **Junior Backend Developer** focused on creating modern and scalable digital products.
 
-- 🚀 Skilled in **JavaScript, Node.js**, and **React Native**.
+- 🚀 Skilled in **SQL, Node.js**, and **React Native**.
 - 🧠 Strong foundation in programming logic and Agile development (Scrum).
 - 💡 Currently building real-world projects to solve meaningful problems and continuously improve as a software engineer.
 
@@ -35,7 +35,7 @@
 
 <div align="center">
   <!-- Importante: Cambia 'TU_USUARIO_DE_GITHUB' por tu nombre de usuario real en la URL de abajo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight" alt="Daniel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TuMinipeka&show_icons=true&theme=tokyonight" alt="Daniel's GitHub Stats" />
 </div>
 
 ---
